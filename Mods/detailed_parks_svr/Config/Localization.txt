@@ -1,0 +1,2 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context
+park_residential_01_exd_svr,park_residential_01_exd_svr,prefab,False,False,"Gella Park","Prefab name for residential park quest."

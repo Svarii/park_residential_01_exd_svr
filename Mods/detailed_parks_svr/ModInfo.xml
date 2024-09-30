@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="detailed_parks_svr" /> 
+    <DisplayName value="Highly Detailed Parks" /> 
+    <Version value="0.1.5.143" />
+    <Description value="Models of Highly Detailed Parks" />
+    <Author value="Svarii" />
+    <Website value="" />
+</xml>

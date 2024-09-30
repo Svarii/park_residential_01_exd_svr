@@ -1,0 +1,22 @@
+<xml>
+<append xpath="/blocks">
+<block name="goreHumanSkull_SVR">
+    <property name="Extends" value="goreHumanSkull"/>
+    <property name="CustomIcon" value="goreHumanSkull"/>
+    <property name="CustomIconTint" value="#A0A0A0"/>
+    <property name="ModelOffset" value="0,-1.5,0"/>
+</block>
+<block name="bloodDecor06_01SVR">
+    <property name="Extends" value="bloodDecor06"/>
+    <property name="CustomIcon" value="bloodDecor06"/>
+    <property name="CustomIconTint" value="#A0A0A0"/>
+    <property name="ModelOffset" value="0,-0.2,0"/>
+</block>
+<block name="bloodDecor06_02SVR">
+    <property name="Extends" value="bloodDecor06"/>
+    <property name="CustomIcon" value="bloodDecor06"/>
+    <property name="CustomIconTint" value="#A0A0A0"/>
+    <property name="ModelOffset" value="0,1,0"/>
+</block>
+</append>
+</xml>

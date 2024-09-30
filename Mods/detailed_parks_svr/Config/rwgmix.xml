@@ -1,0 +1,11 @@
+<append xpath="/prefablist">
+    <prefab name="park_residential_01_exd_svr" min_count="5"/>
+</append>
+
+<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='residential']">    
+    <prefab name="park_residential_01_exd_svr" prob="0.7"/>
+</append>
+
+<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wilderness']">    
+    <prefab name="park_residential_01_exd_svr" prob="0.3"/>
+</append>
